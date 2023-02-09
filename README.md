@@ -7,10 +7,6 @@
 
 - Bilder [/img](./img/)
 
-# Medlemmar: 
-- Abdulla Abu Ainin 
-- Charbel Jbielly
-
 # Beskrivning och Bakgrund:
 Parking Radar Sensor med Arduino som kommunicerar med en app på android, Radarn är baserad på 3 ultraljud sensorer som upptäcker hinder från 3 olika håll; vänster, höger och mitten.
  Vi har tänkt att sensorerna ska bli ett säkerhetssystem som varnar användaren för kommande hinder. Sensorerna är främst tänkte för bilar. Så att bilen har ett extra skydd som varnar om nära objek/hinder så att man inte ska krocka. Vi bestämde oss för detta projekt för vi tyckte det lät intressant samt en utmaning att ha med tre sensorer istället för en. Vi ska även försvåra arbetet med att göra en applikation som visar värderna från sensorerna. Men allt kommer vara värt det i slutändan.
