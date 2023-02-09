@@ -5,7 +5,6 @@
     * Android [Prototype.apk](https://drive.google.com/file/d/1J4INymdXIyaqrTZJNHQ8nDmvR2BSV0AG/view?usp=sharing) 17 MB
     * Windows [Prototype.zip](https://drive.google.com/file/d/10sR1H_vFRUNZAB479mF9K6l9i8I3TnrY/view?usp=sharing) 20 MB
 
-- Presentation [Youtube video](https://youtu.be/0awrDEnnhnA)
 - Bilder [/img](./img/)
 
 # Medlemmar: 
